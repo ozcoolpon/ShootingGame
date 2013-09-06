@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/51/trunk/ShootingGame/ShootingGame/ShootingGame/Particle
+END
+ParticleEmitter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/54/trunk/ShootingGame/ShootingGame/ShootingGame/Particle/ParticleEmitter.cs
+END
+Explosion.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/54/trunk/ShootingGame/ShootingGame/ShootingGame/Particle/Explosion.cs
+END
+ParticleVertex.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/54/trunk/ShootingGame/ShootingGame/ShootingGame/Particle/ParticleVertex.cs
+END
+ParticleSettings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/54/trunk/ShootingGame/ShootingGame/ShootingGame/Particle/ParticleSettings.cs
+END
+ProjectileTrialParticleSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/54/trunk/ShootingGame/ShootingGame/ShootingGame/Particle/ProjectileTrialParticleSystem.cs
+END
+ParticleSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/54/trunk/ShootingGame/ShootingGame/ShootingGame/Particle/ParticleSystem.cs
+END
+ExplosionParticleSystem.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/54/trunk/ShootingGame/ShootingGame/ShootingGame/Particle/ExplosionParticleSystem.cs
+END

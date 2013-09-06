@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/49/trunk/ShootingGame/ShootingGame/ShootingGame/Data
+END
+GameWorldData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/47/trunk/ShootingGame/ShootingGame/ShootingGame/Data/GameWorldData.cs
+END
+DataLoader.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/48/trunk/ShootingGame/ShootingGame/ShootingGame/Data/DataLoader.cs
+END
+LevelData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/49/trunk/ShootingGame/ShootingGame/ShootingGame/Data/LevelData.cs
+END
+CameraData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/30/trunk/ShootingGame/ShootingGame/ShootingGame/Data/CameraData.cs
+END

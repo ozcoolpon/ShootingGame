@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/37/trunk/ShootingGame/ShootingGame/ShootingGame/GameUtil
+END
+XNAUtil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/29/trunk/ShootingGame/ShootingGame/ShootingGame/GameUtil/XNAUtil.cs
+END
+PathFinder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/37/trunk/ShootingGame/ShootingGame/ShootingGame/GameUtil/PathFinder.cs
+END
+MathUtil.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/37/trunk/ShootingGame/ShootingGame/ShootingGame/GameUtil/MathUtil.cs
+END
